@@ -8,7 +8,8 @@
          "header-top-left-text":"Men's",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-mens/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 45.00
       },
       {
          "id": 2,
@@ -18,7 +19,8 @@
          "header-top-left-text":"Women's",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-womens/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 29.99
       },
       {
          "id": 3,
@@ -28,7 +30,8 @@
          "header-top-left-text":"Running Shoes",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
          "header-top-right-url":"http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 33.49
       },
       {
          "id": 4,
@@ -38,7 +41,8 @@
          "header-top-left-text":"Equipment",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-equipment/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 15.00
       },
       {
          "id": 5,
@@ -48,7 +52,8 @@
          "header-top-left-text":"Men's",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-mens/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 45.00
       },
       {
          "id": 6,
@@ -58,7 +63,8 @@
          "header-top-left-text":"Women's",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-womens/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 29.99
       },
       {
          "id": 7,
@@ -68,7 +74,8 @@
          "header-top-left-text":"Running Shoes",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
          "header-top-right-url":"http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 26.50
       },
       {
          "id": 8,
@@ -78,7 +85,8 @@
          "header-top-left-text":"Equipment",
          "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "header-top-right-url":"http://www.thenorthface.com/en_US/shop-equipment/",
-         "product-cta-text":"Shop Now"
+         "product-cta-text":"Shop Now",
+         "price": 11.00
       }
    ]
 }
